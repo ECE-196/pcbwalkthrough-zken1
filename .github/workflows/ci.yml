@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Verify submission
-        run: sh ci.sh
+        run: sh .github/workflows/ci.sh
