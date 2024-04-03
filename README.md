@@ -1,6 +1,6 @@
 # PCBWalkthrough
 
-Get started by visiting the [wiki](https://github.com/ECE-196/PCBWalkthrough/wiki).
+If you missed lecture, there is a recording of the walkthrough [here](https://youtu.be/9FM8jvO4cjU).
 
 **Remember to update the changelog**
 
